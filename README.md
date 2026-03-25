@@ -1,4 +1,4 @@
-# Hi, I'm Sonal 👋
+# Hi, I'm Sonali 👋
 
 🎓 B.Tech Student  
 📚 Branch:Computer Science Engineering (AI&ML)
