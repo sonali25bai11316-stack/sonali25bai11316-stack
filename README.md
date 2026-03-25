@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sonali 👋
 
-<!--
-**sonali25bai11316-stack/sonali25bai11316-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student  
+📚 Branch:Computer Science Engineering (AI&ML)  
+📅 Year:2025-2029
 
-Here are some ideas to get you started:
+🌱 I am currently learning and exploring new technologies in programming, problem-solving, and software development to build a strong foundation for my future career.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I am interested in improving my coding skills and working on real-world projects.
+
+🚀 Goals:
+- Learn new programming languages
+- Build meaningful projects
+- Contribute to open-source
