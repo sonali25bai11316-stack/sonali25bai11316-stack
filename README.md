@@ -8,12 +8,6 @@ I am currently learning and exploring new technologies in programming, problem-s
 
 I am interested in improving my coding skills and working on real-world projects.
 
-Skills
-- Programming Languages: C, Python, Java 
-- Web Development: HTML, CSS, JavaScript 
-- Concepts: Data Structures & Algorithms (DSA), Problem Solving
-- Tools & Platforms: Git, GitHub, VS Code
-
 Goals
 - Learn new programming languages  
 - Build meaningful projects  
